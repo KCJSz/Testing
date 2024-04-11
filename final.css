@@ -1,0 +1,63 @@
+.mainframe{
+    height: fit-content;
+    width: 1200px;
+    background-color: white ;
+    box-shadow: 15px 10px 20px 20px rgb(123, 126, 255);
+    border-radius: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding: 20px ;
+}
+.pain{
+    display: flex;
+    flex-direction: row;
+    width: 1200px;
+    height: 200px;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.05);
+}
+.pfp{
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+}
+.name{
+    text-align: center;
+    align-content: center;
+}
+.intro{
+    height: 250px;
+    width: 250px;
+    align-content: center;
+}
+.info{
+    height: 150px;
+    padding-top: 50px;
+    padding-left: 15px;
+}
+.about{
+    padding-left: 30px;
+}
+.about_p{
+    padding-left: 30px;
+    font-size: 18px;
+    padding-right: 30px;
+}
+.school{
+    padding-left: 25px;
+    font-size: 16px;
+    margin: 5px 0 5px 5px;
+}
+.skill{
+    color: aliceblue;
+    background-color: rgb(0, 60, 255);
+    padding-left: 10px;
+    padding-right: 10px;
+    height: fit-content;
+    width: fit-content;
+    border-radius: 8px;
+    margin-left: 25px;
+    font-size: 12px;
+}
